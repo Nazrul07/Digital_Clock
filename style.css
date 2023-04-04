@@ -1,0 +1,12 @@
+body{
+        font-size: 120px;
+        width: 800px;
+        margin: 200px;
+        text-align: center;
+        border-radius: 20px;
+        background: black;
+}
+.time
+{
+    background: linear-gradient(135deg, #14ffe9 , #ffeb3b , #ff00e0);
+}
